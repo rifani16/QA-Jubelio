@@ -7,6 +7,9 @@ Final Task Jubelio
 
 ## How to run this command this automation scenarios in local:
 1. Clone this repo using this command:
+```bash
+$ git clone https://github.com/rifani16/QA-Jubelio
 ```
-https://github.com/rifani16/QA-Jubelio
-```
+
+### Notes
+There's error in this project 🙏
